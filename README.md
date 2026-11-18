@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # B2B Marketplace QA Assignment — WholeCart
 
 ## Application under test
@@ -51,3 +52,6 @@ Copilot SDK in VS Code assisted with reviewing the supplied documentation and dr
 ## Submission readiness
 
 This is a preparation pack, not a completed release assessment. Before submission, execute and record the tests, build/review automation, perform an approved load test within the stated request-rate cap, document verified findings and evidence, complete the results and interview sections, export/link the AI session, and create the required five-minute recording in your own voice.
+=======
+# New-Project-18112026
+>>>>>>> origin/main
